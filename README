@@ -1,0 +1,7 @@
+This is the home of some sample code for loading images into table cell. I started with Markj's code from this article http://www.markj.net/iphone-asynchronous-table-image/ and added some improvements including a default/placeholder image and a cache.
+
+TODO
+
+Make the cache persistent
+Control cache size
+
